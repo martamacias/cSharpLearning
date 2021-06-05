@@ -1,0 +1,16 @@
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso.deps.json
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso.runtimeconfig.json
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso.runtimeconfig.dev.json
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso.dll
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/ref/curso.dll
+/home/marta/Documentos/C#/curso/bin/Debug/net5.0/curso.pdb
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.csproj.AssemblyReference.cache
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.GeneratedMSBuildEditorConfig.editorconfig
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.AssemblyInfoInputs.cache
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.AssemblyInfo.cs
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.csproj.CoreCompileInputs.cache
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.dll
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/ref/curso.dll
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.pdb
+/home/marta/Documentos/C#/curso/obj/Debug/net5.0/curso.genruntimeconfig.cache
